@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Himanshu%20Dalal&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descAlignY=60&descSize=16&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Himanshu&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descAlignY=60&descSize=16&descColor=8b949e&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -12,10 +12,6 @@
 
 <!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=himanshudalal720&label=Profile%20Views&color=58a6ff&style=flat-square" alt="profile views" />
-&nbsp;
-<a href="https://github.com/himanshudalal720?tab=followers">
-  <img src="https://img.shields.io/github/followers/himanshudalal720?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117" />
-</a>
 
 </div>
 
@@ -25,7 +21,7 @@
 
 ```javascript
 const himanshu = {
-  name:        "Himanshu Dalal",
+  name:        "Himanshu",
   role:        "Full Stack Developer",
   location:    "India 🇮🇳",
   passion:     "Building scalable web applications",
@@ -59,27 +55,6 @@ const himanshu = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshudalal720&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=himanshudalal720&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudalal720&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshudalal720&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
